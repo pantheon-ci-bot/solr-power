@@ -67,3 +67,4 @@ Please feel free to file issues there. Pull requests are also welcome!
 
 ### 0.0 ###
 * Note this started as a fork of this wonderful project: https://github.com/mattweber/solr-for-wordpress
+
